@@ -1,0 +1,13 @@
+# Write your solution here
+temp = int(input("What is the weather forecast for tomorrow? "))
+rain = input("Will it rain (yes/no): ")
+print("Wear jeans and a T-shirt")
+if rain == "yes":
+    print("Don't forget your umbrella!")
+if temp < 21:
+    print("I recommend a jumper as well")
+if temp < 11:
+    print("Take a jacket with you")
+if temp < 6:
+    print("Make it a warm coat, actually")
+    print("I think gloves are in order")

@@ -1,0 +1,4 @@
+tietokone;computer
+tietokone;computer
+tieto;knowledge
+tietoisuus;conscience
